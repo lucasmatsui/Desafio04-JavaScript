@@ -6,3 +6,5 @@
 # Para utilizar
 - Apenas baixe a extenção no VScode Node Exec
 - Entre no arquivo <b>script.js</b> e aperte F8 para executar o script.
+
+PERFEITO
